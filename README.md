@@ -61,9 +61,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.tenor.com/qeu2R2c7XzYAAAAC/hua-cheng-xie-lian.gif" width="200">
-</p>
 
 <p align="center">
   <i>May your code be bug-free and your days blessed by the heavens.</i>
