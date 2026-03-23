@@ -1,67 +1,87 @@
 <h1 align="center">✩*•.── ❁ 🦊🐹 🐶🐱 🐰🐰 ❁ ──.•*✩</h1>
 
 <p align="center">
-  <b>"🍃 May fire purify, earth heal, air transform, water regenerate, and spirit be reborn."</b> <br>
+  <b>"🍃 Que o fogo purifique que à terra cure, que o ar transforme, que a água regenere e que o espírito renasça."</b>
 </p>
 
 <br>
 
-<b>☁️ Hi, my name is Anna ^^</b> <br>
+## 👩‍💻 Anna Nicolly
 
-✧💙 Computer Science student at CEUB <br>
-✧🎮 Passionate about **animation**, **game development**, and **tech creation**  
-✧🔍 Curious about how things work and how to turn ideas into real projects  
-✧💻 Main interests: **programming**, **artificial intelligence**, and **machine learning**  
-✧😄 Pronouns: she/her  
-
----
-
-## 📚 Currently Learning
-
-- 🧮 Assembly and computer organization  
-- 🌐 Networks, protocols, and information security  
-- 🐍 Programming with Python  
-- 💾 Data modeling and SQL  
-- 🤖 AI and chatbot development  
-- ☕ Java (in a beginner-friendly course)  
-- 🧠 C programming fundamentals  
+💙 Estudante de Ciência da Computação no CEUB  
+🎮 Apaixonada por tecnologia, animação e desenvolvimento de software  
+🔍 Interessada em como as coisas funcionam e transformar ideias em projetos reais  
+💻 Interesse em desenvolvimento de software, cibersegurança e banco de dados  
+🎯 Buscando oportunidade de estágio em TI  
 
 ---
 
-## 🎯 Hobbies
-
-- 📖 Reading (especially **fantasy** 🧙‍♂️)  
-- 🎧 Listening to music  
-- 🖼️ Exploring narratives (cartoons, games, animation)  
-
----
-
-### ⚙️ Technologies I'm Learning
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-### ✉️ Contact
-
-[![Gmail](https://img.shields.io/badge/-anna.95jay@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anna.95jay@gmail.com)
-
----
-
-### 🕊️ Story Fragment
-
-> “The scent was as soft as morning mist, yet with a trace of night’s chill...  
-> Scents like this usually dull the mind, but this one was clean and refreshing. It cleared the mind instead.”  
-> — Mo Ran  
-
----
-
+## ⚙️ Tecnologias e Ferramentas
 
 <p align="center">
-  <i>May your code be bug-free and your days blessed by the heavens.</i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40"/>
+</p>
+
+---
+## 📌 Projeto em destaque
+
+<p align="center">
+  <a href="https://github.com/Annans95/baile-das-mascaras">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Annans95&repo=baile-das-mascaras&theme=tokyonight"/>
+  </a>
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Annans95&show_icons=true&theme=tokyonight&locale=pt-br" />
+  <img src="https://streak-stats.demolab.com?user=Annans95&theme=tokyonight&locale=pt-br" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annans95&layout=compact&theme=tokyonight&locale=pt-br" />
+</p>
+
+---
+
+## 📈 Contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Annans95&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+- 🌐 Redes e segurança da informação  
+- 🧠 Algoritmos e estrutura de dados  
+- ☕ Java
+
+---
+## 🕊️ Fragmento
+
+> “O aroma era suave como a névoa da manhã, mas com uma pitada do frio da noite…
+> Aromas como esse costumam entorpecer as pessoas, mas este era limpo e refrescante, limpava a mente ao invés disso.”  
+> — Mo Ran
+
+---
+
+<p align="center">
+  <i>Que seu código seja livre de bugs e seus dias sejam abençoados pelos céus.</i>
 </p>
