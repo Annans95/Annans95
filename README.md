@@ -1,7 +1,7 @@
 <h1 align="center">✩*•.── ❁ 🦊🐹 🐶🐱 🐰🐰 ❁ ──.•*✩</h1>
 
 <p align="center">
-  <b>"🍃 Que o fogo purifique que à terra cure, que o ar transforme, que a água regenere e que o espírito renasça."</b>
+  <b>🍃 "Que o fogo purifique que à terra cure, que o ar transforme, que a água regenere e que o espírito renasça."</b>
 </p>
 
 <br>
