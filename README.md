@@ -6,17 +6,30 @@
 
 <br>
 
-## 👩‍💻 Anna Nicolly
+
+<b> ☁️ Olá, meu nome é Anna ^^ </b> <br>
 
 💙 Estudante de Ciência da Computação no CEUB  
 🎮 Apaixonada por tecnologia, animação e desenvolvimento de software  
 🔍 Interessada em como as coisas funcionam e transformar ideias em projetos reais  
 💻 Interesse em desenvolvimento de software, cibersegurança e banco de dados  
-🎯 Buscando oportunidade de estágio em TI  
 
 ---
+## 📚 Atualmente estou aprofundando meus conhecimentos em:
 
-## ⚙️ Tecnologias e Ferramentas
+- ☕ Java  
+- 🌐 Redes, protocolos e segurança da informação  
+- 🧠 Algoritmos e estrutura de dados
+  
+---
+## 🎮 Hobbies
+
+- 📖 Leitura, especialmente de fantasia  
+- 🎧 Ouvir música  
+- 🎬 Explorar narrativas em jogos, animações e desenhos
+--- 
+
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -36,45 +49,19 @@
 </p>
 
 ---
-## 📌 Projeto em destaque
 
-<p align="center">
-  <a href="https://github.com/Annans95/baile-das-mascaras">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Annans95&repo=baile-das-mascaras&theme=tokyonight"/>
-  </a>
-</p>
-
----
-
-## 📊 Estatísticas
+## 📊 GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Annans95&show_icons=true&theme=tokyonight&locale=pt-br" />
   <img src="https://streak-stats.demolab.com?user=Annans95&theme=tokyonight&locale=pt-br" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annans95&layout=compact&theme=tokyonight&locale=pt-br" />
 </p>
 
 ---
 
-## 📈 Contribuições
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Annans95&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true"/>
-</p>
-
----
-
-## 📚 Atualmente estudando
-
-- 🌐 Redes e segurança da informação  
-- 🧠 Algoritmos e estrutura de dados  
-- ☕ Java
-
----
-## 🕊️ Fragmento
+## 🕊️ Pequeno Fragmento
 
 > “O aroma era suave como a névoa da manhã, mas com uma pitada do frio da noite…
 > Aromas como esse costumam entorpecer as pessoas, mas este era limpo e refrescante, limpava a mente ao invés disso.”  
